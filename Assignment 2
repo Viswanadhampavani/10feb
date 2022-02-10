@@ -1,0 +1,11 @@
+n=float(input ('Enter any number')) 
+if n>=0:
+ if n==0:
+Print(" It is zero! ") 
+else:
+Print("NUMBER IS POSITIVE") 
+Else:
+Print(" NUMBER IS NEGATIVE ")
+OUTPUT:
+enter any number: 32
+Positive number
