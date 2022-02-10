@@ -1,0 +1,29 @@
+Sno=int(input ('Enter student no:')) 
+Sname=(input ('Enter student name:')) 
+A group=input ('Enter student name:') 
+S1=int (input ('maths marks:')) 
+S2=int(input ('physics marks:')) 
+S3=int(input ('computers marks:')) 
+S4=int(input ('telugu marks:')) 
+S5=int(input('hindi marks:')) 
+S6=int (input ('composite marks:')) 
+if S1>=35
+   S2>=35
+   S3>=35
+   S4>=35
+   S5>=35
+   S6>=35
+Print('pass') 
+ else:
+Print('fail') 
+OUTPUT:
+Enter student no:1
+Enter student name:pavani
+Enter student group:MPCS
+Maths marks:36
+Physics marks:37
+Computers marks:35
+Telugu marks:40
+Hindi marks:35
+Composite marks:38
+Fail
